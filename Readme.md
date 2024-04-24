@@ -13,9 +13,10 @@ Generates matrix of random elements for FW algorithm
 #Benchmarks (GPU)
 Benchmarking on my RTX 4060 machine
 
-Vertex Size    Time(s)
-4096           2s
-8192           16s
-16384          128s
+| Vertex Size | Time(s) |
+| -------- | ------- |
+| 4096  | 2   |
+| 8192  | 16  |
+| 16384 | 128 |
 
 Almost perfect cubic scaling
